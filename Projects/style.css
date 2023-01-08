@@ -1,0 +1,14 @@
+.heading{
+    text-decoration: underline;
+}
+
+.beagle{
+    margin:3px;
+    border:1px solid black;
+    padding:20px;
+}
+
+.link{
+    color:black;
+   
+}
